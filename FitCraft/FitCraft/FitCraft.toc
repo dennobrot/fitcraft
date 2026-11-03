@@ -1,0 +1,13 @@
+## Interface: 11509
+## Title: |cff33ff99FitCraft|r - Stay fit while you grind
+## Notes: Turns in-game events (quests, level ups, deaths, flights, bosses...) into real-life exercise sets and tracks your lifetime reps.
+## Author: denniskimm90
+## Version: 1.0.0
+## SavedVariables: FitCraftDB
+## IconTexture: Interface\Icons\Ability_Rogue_Sprint
+
+Core.lua
+Alert.lua
+UI.lua
+Minimap.lua
+Events.lua
